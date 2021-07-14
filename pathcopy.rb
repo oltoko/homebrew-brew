@@ -1,4 +1,4 @@
-class PathCopy < Formula
+class Pathcopy < Formula
     desc "A cli command which copies the absolute Path of the given file or directory to the clipboard."
     homepage "https://github.com/oltoko/PathCopy"
     version "0.1.1"
